@@ -20,7 +20,7 @@ After adding the gears and shafts, the result of the static analysis is presente
   <img src="https://i.imgur.com/1VQpN8I.png">
 </p>
 
-Then, a dynamic analysis can be performed, by giving the material properties of the components. The program comes pre-configured with a library of the most important materials and means of fabrication, so that the user can quickly choose some deault values. In case of something more specific, the values for these properties can also be inserted manually. The dynamic analysis information page is as followws, depending on which type of gear, obviously.
+Then, a dynamic analysis can be performed, by giving the material properties of the components. The program comes pre-configured with a library of the most important materials and means of fabrication, so that the user can quickly choose some default values. In case of something more specific, the values for these properties can also be inserted manually. The dynamic analysis information page is as follows, depending on which type of gears are used.
 
 <p align="center">
   <img src="https://i.imgur.com/4ZMF1mP.png">
